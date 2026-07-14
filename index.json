@@ -1,0 +1,362 @@
+{
+  "library": "tubular-bells1",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/tubular-bells1",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/tubular-bells1-opus-48",
+  "branch": "main",
+  "fileCount": 29,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/",
+  "files": [
+    {
+      "file": "As4.opus",
+      "name": "As4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/As4.opus",
+      "size": 51525,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As4_ff_01.opus",
+      "name": "As4_ff_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/As4_ff_01.opus",
+      "size": 87136,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As4_ff_02.opus",
+      "name": "As4_ff_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/As4_ff_02.opus",
+      "size": 82640,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.opus",
+      "name": "C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/C4.opus",
+      "size": 67887,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4_f_01.opus",
+      "name": "C4_f_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/C4_f_01.opus",
+      "size": 69233,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4_f_02.opus",
+      "name": "C4_f_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/C4_f_02.opus",
+      "size": 68045,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/C5.opus",
+      "size": 76910,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_ff_01.opus",
+      "name": "C5_ff_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/C5_ff_01.opus",
+      "size": 116415,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_ff_02.opus",
+      "name": "C5_ff_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/C5_ff_02.opus",
+      "size": 101280,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4.opus",
+      "name": "D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/D4.opus",
+      "size": 71129,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_ff_01.opus",
+      "name": "D4_ff_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/D4_ff_01.opus",
+      "size": 72051,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4_ff_02.opus",
+      "name": "D4_ff_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/D4_ff_02.opus",
+      "size": 96784,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5.opus",
+      "name": "D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/D5.opus",
+      "size": 61249,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_ff_01.opus",
+      "name": "D5_ff_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/D5_ff_01.opus",
+      "size": 88829,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_ff_02.opus",
+      "name": "D5_ff_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/D5_ff_02.opus",
+      "size": 87293,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4.opus",
+      "name": "E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/E4.opus",
+      "size": 62264,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4_ff_01.opus",
+      "name": "E4_ff_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/E4_ff_01.opus",
+      "size": 68086,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4_ff_02.opus",
+      "name": "E4_ff_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/E4_ff_02.opus",
+      "size": 81894,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5.opus",
+      "name": "E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/E5.opus",
+      "size": 63978,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5_ff_01.opus",
+      "name": "E5_ff_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/E5_ff_01.opus",
+      "size": 81273,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5_ff_02.opus",
+      "name": "E5_ff_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/E5_ff_02.opus",
+      "size": 67630,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4.opus",
+      "name": "Fs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/Fs4.opus",
+      "size": 80299,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4_fff_01.opus",
+      "name": "Fs4_fff_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/Fs4_fff_01.opus",
+      "size": 80418,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4_fff_02.opus",
+      "name": "Fs4_fff_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/Fs4_fff_02.opus",
+      "size": 80640,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs4.opus",
+      "name": "Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/Gs4.opus",
+      "size": 72913,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs4_ff_01.opus",
+      "name": "Gs4_ff_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/Gs4_ff_01.opus",
+      "size": 74093,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs4_ff_02.opus",
+      "name": "Gs4_ff_02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/Gs4_ff_02.opus",
+      "size": 70141,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_As5.opus",
+      "name": "samples_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/samples_As5.opus",
+      "size": 75349,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_As5.opus",
+      "name": "small_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/tubular-bells1-opus-48/main/small_As5.opus",
+      "size": 74157,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "60": [
+      "C4.opus",
+      "C4_f_01.opus",
+      "C4_f_02.opus"
+    ],
+    "62": [
+      "D4.opus",
+      "D4_ff_01.opus",
+      "D4_ff_02.opus"
+    ],
+    "64": [
+      "E4.opus",
+      "E4_ff_01.opus",
+      "E4_ff_02.opus"
+    ],
+    "72": [
+      "C5.opus",
+      "C5_ff_01.opus",
+      "C5_ff_02.opus"
+    ],
+    "74": [
+      "D5.opus",
+      "D5_ff_01.opus",
+      "D5_ff_02.opus"
+    ],
+    "76": [
+      "E5.opus",
+      "E5_ff_01.opus",
+      "E5_ff_02.opus"
+    ]
+  }
+}
